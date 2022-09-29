@@ -1,1 +1,204 @@
 hash-format = "sha256"
+
+[[files]]
+file = "config/desiredServers/desiredservers.json"
+hash = "a0fc0f14a667b45bfaa9f7057c37698cb2d7e626feed5a653897459dcfca70ce"
+
+[[files]]
+file = "config/iris.properties"
+hash = "169359547ece4ba793d4577d15d216c5c6f8ae910cc9d4ecc8a1065fdf4a576f"
+
+[[files]]
+file = "config/lambdabettergrass.toml"
+hash = "4245012834b0029818001b01015ceede0a90aa46692afbb47bfa5a5dec242198"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "14ecffcc36f1ae6bd504a2c0dce55c7e3c196908df8449466ae5092dcf777119"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "2222f60073a12083055cb7d026debf43eb3cbedfc9f6716dcada01f0992896e5"
+
+[[files]]
+file = "mods/advanced-tooltips.pw.toml"
+hash = "4360b11a76b9210dce30740f4105f5310b2be6d2e2205c9b405b1a31752865fb"
+metafile = true
+
+[[files]]
+file = "mods/beenfo.pw.toml"
+hash = "3c98209a65dc7f0bac8ab7d9b3c94d1c6453ee76e71e270b2e9f5bf58804b811"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "fe0fb406a9ba81b2e501d41db4606ed512687045e5c515481edc12b00119940e"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "b9416d2866f19570a9504f2e15c3ebf4a78691a1bc9c9c42dbe1773ff9d0bd1d"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "e0f6cbba2f655e4d7906d95d5c9e00837a72fa6a0c52ddadcd35de33c160f017"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "3f4979b3bf621ce00e3ca876df47c2467fafac3118779bd8cb6800f31dc4f625"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "fa0bfdfa7fa3ace1d30c8e0929ab1f120be5ceb0adaee37f0f2bd90bc27b7492"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "bf99ea4c0791d122c48e8b9f637b885fe989bb04b864234d790b563c968c955e"
+metafile = true
+
+[[files]]
+file = "mods/desired-servers-fabric.pw.toml"
+hash = "2bc72121fd5591deb8eef735251f6ea0c2a196a580264cba5f65b29552a63861"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "da481c054a2671c6546413c1931ff90713edc950ad6a5462fc6798c478e01172"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "4559f01f8da539982476e058019d8e9b7906f3d9b84f06652b9687cee648515f"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-fabric.pw.toml"
+hash = "4e50d4f19c3ae1772828d51987c36625d033c81ce233b4962bfbf4358bfbaf04"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "90934a8f07aad60a6a696e2b63db60f4aa0a5439b89fea95fcd0a100d526da6b"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "6406da143a731e34967124831d4af5a59bf8230bd34b16b7aa79927f41d58e50"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "0d66d77d7354d3b8d4b89983c3a576895e9d3e74250a8797897ccf6e0291e6e2"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "6efed395750fd72a1396750da222739ed5708b63bfb5fbad59b05ebec779e22c"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "06d49d852288316a9b95c5429afe3a5ca872c606304be149febece690128fae2"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "8f25bcf2861e14d911472dc7f55087a156bd948bc6322e530d91cf46e5c26579"
+metafile = true
+
+[[files]]
+file = "mods/model-gap-fix.pw.toml"
+hash = "acd6e3f12b59daeceac772d3cc2f1ff1bfff40a33095e51d88e45418396d7d21"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e3aca0cdce3d910b14c74960e82b2099aa870ff552608ebf42ad567dfcd63cc9"
+metafile = true
+
+[[files]]
+file = "mods/more-chat-history.pw.toml"
+hash = "6ba02ed36bd9c31c7585b3788ea70b8fbfd4027e8a4e05481e35bfb7470eaa46"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "01490232fac88ea529dc37e826effa352d74978538635c537f42ac0775a895dc"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "a9fad21f2eaf1a4e088537611a09faa3db7ae88fe3547589d24bcc0cbb09bd86"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "14382dc7503db6e6e02eff91f0935b3aa8b37466fa6d2e949f3c66b8c611f5df"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4e95ea4a8dc9d36bf7bdc2cbbe75caaf756d9a99d7561ad2cfbfea8d845696ab"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "05e60e933d7d05ec2b6e729ba7f47af9600dd24b4c762396c820d944ddbe8b33"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
+metafile = true
+
+[[files]]
+file = "mods/why-does-my-glass-sound-like-that.pw.toml"
+hash = "d6f79f88dee7bd4f949310cd06e1c8fdb7db102359f08d61f01abd16373dfe4b"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "3f45a0d65655bf379787b6ddcf5453b09db5be6cd6e5676a832e1c7378ebe575"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "527d4adba10457dffcb2baf8a372191efbabb63fce41ad168be34d51c687158a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/.gitkeep"
+hash = "49ec33ed5aaab1d843324e948350ffd8eb4afd0bd10963eb01533d71bc3c4b8e"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.6.zip"
+hash = "aa7f493d7d95e3b6785beba19cd2a5d5df579e6f66dbc56e3de7c4cfdc0aea74"
