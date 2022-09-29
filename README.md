@@ -1,4 +1,4 @@
-A client-side Quilt modpack designed to compliment the Meridian Realms server network, although can be used by anyone on any server or single-player. This pack focuses on performance first and quality of life improvements and modernizations second.
+A client-side Fabric modpack designed to compliment the Meridian Realms server network, although can be used by anyone on any server or single-player. This pack focuses on performance first and quality of life improvements and modernizations second.
 
 ## Performance
 Sodium is the base of this pack, providing rendering performance second to none. This paired with More Culling, Starlight, FerriteCore, and DashLoader takes it that much further.
