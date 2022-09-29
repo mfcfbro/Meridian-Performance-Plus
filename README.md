@@ -7,4 +7,4 @@ Sodium is the base of this pack, providing rendering performance second to none.
 Many quality of life improvements are included. Zoom, controller support, better footstep sounds, extended tooltips, a cleaner F3 menu, borderless window mode, and better debug info to name the most notable.
 
 ## Enhanced Visuals
-Shaders are supported via Iris and provide exceptional performance as well. Complementary Shaders are included by default. Thank you to EminGTR for allowing modpack authors to share this fantastic shader pack. Other features have been added, such as falling leaves, better grass, and connected textures.
+Shaders are supported via Iris and provide exceptional performance as well. [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders) are included by default. Thank you to EminGTR for allowing modpack authors to share this fantastic shader pack. Other features have been added, such as falling leaves, better grass, and connected textures.
